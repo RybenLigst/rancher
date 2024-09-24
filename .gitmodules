@@ -1,3 +1,0 @@
-[submodule "ranch/rancher"]
-	path = ranch/rancher
-	url = git@github.com:RybenLigst/rancher.git
