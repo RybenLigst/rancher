@@ -13,4 +13,3 @@ RUN chmod +x /usr/local/bin/custom-scripts/*.sh
 
 # Вкажіть команду для запуску Rancher
 CMD ["entrypoint.sh"]
-
